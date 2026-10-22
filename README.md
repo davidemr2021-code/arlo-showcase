@@ -32,7 +32,7 @@ You can talk to it or type in the chat.
 | ⛅ **Weather** | Always on screen |
 | ⏰ **Reminders** | "Arlo, remind me to..." |
 | 📱 **Telegram** | Text it (or send voice notes) from anywhere |
-| 🖱️ **Uses your PC** | Looks at the screen, then clicks and types for you |
+| 🖱️ **Uses your PC** | Sorts folders, creates files and 3D models, clicks and types for you. It always asks first, and you can undo |
 | 💡 **Explains** | Shows a topic on screen with pictures and captions |
 | 📷 **Webcam** | Looks through the camera and describes what it sees |
 | 🕘 **History** | Remembers what you asked |
@@ -49,7 +49,7 @@ Then it tells you what to fix first, out loud and on screen (green = fine, red =
 
 <img src="media/muscle-up-skeleton.jpg" width="280" alt="Muscle-up analysed by Arlo">
 
-Everything runs locally with MediaPipe: no photo or video leaves the PC.
+The pose analysis runs locally with MediaPipe: no photo or video leaves the PC.
 
 ## Hologram mode
 
@@ -81,7 +81,7 @@ Say **"Arlo, learn the back lever"**:
 
 ## Coming soon
 
-- 🧠 Fully local AI on a new PC
+- 🧠 Hybrid AI: a powerful model in the cloud, plus a small model trained for Arlo that runs on your PC when you're offline (or always, if you prefer)
 - 🎙️ New voice and speech recognition
 - 🏃 Running and swimming
 - ❤️ A home-made heart-rate sensor connected to Arlo
