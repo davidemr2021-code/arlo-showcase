@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="media/noxis-logo-orizzontale-scuro.png">
-  <img src="media/noxis-logo-orizzontale-chiaro.png" width="420" alt="NOXIS">
+  <source media="(prefers-color-scheme: dark)" srcset="media/noxis-by-lowe-orizzontale-scuro.png">
+  <img src="media/noxis-by-lowe-orizzontale-chiaro.png" width="420" alt="NOXIS by Lowe">
 </picture>
 
 **A personal AI assistant, built at home in Python.**
@@ -99,7 +99,7 @@ Say **"Noxis, learn the back lever"**:
 
 <div align="center">
 
-Made by **Davide** · Python · MediaPipe · Groq
+Made by **Davide Lowe** · Python · MediaPipe · Groq
 
 ⭐ Star this repo if you want to follow the project!
 
