@@ -91,9 +91,9 @@ Say **"Lowe, learn the back lever"**:
 
 ## Trailer
 
-*Lowe was called Arlo until October 2026, so some screenshots and the trailer may still show an older name.*
+*Lowe was called Arlo until October 2026, so some screenshots still show the old name.*
 
-[▶ Watch the trailer](media/noxis-trailer.mp4)
+[▶ Watch the trailer](media/lowe-trailer.mp4)
 
 ---
 
